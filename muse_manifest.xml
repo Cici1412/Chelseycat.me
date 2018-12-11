@@ -1,0 +1,135 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Chelseycat.me" resolutions="1x" timestamp="1544561791603">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4234945169" ref="contact:index:portfolio:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="contact:index:portfolio:about"/>
+    <file name="contact.css" crc="4222602602" ref="contact"/>
+    <file name="nomq_contact.css" crc="513188640" ref="contact"/>
+    <file name="index.css" crc="250578649" ref="index"/>
+    <file name="nomq_index.css" crc="4290978458" ref="index"/>
+    <file name="portfolio.css" crc="182349475" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="408981614" ref="portfolio"/>
+    <file name="about.css" crc="3959426606" ref="about"/>
+    <file name="nomq_about.css" crc="3989702905" ref="about"/>
+  </folder>
+  <folder name="assets">
+    <file name="corpid_collateral_calderon.pdf" crc="12609449" seo="true" mt="1540263082000"/>
+    <file name="graphic-standard-manual-2018.pdf" crc="4133214713" seo="true" mt="1537972448000"/>
+    <file name="afr_3panfold_calderon.pdf" crc="161286731" seo="true" mt="1537972411000"/>
+    <file name="artrepro_billboard_calderon.pdf" crc="299777590" seo="true" mt="1537972374000"/>
+    <file name="resume-chelsey.pdf" crc="3885021384" seo="true" mt="1544558853000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:portfolio:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about:portfolio:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:portfolio:contact"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:portfolio:contact"/>
+    <file name="require.js" crc="7928878" ref="index:about:portfolio:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="contact"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u1446.php" crc="3936421482" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="holiday logo.png" crc="3913160266" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="psa_billboard_amberalert.png" crc="4153135345" seo="true" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pg1 brocheure.png" crc="4085852375" seo="true" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="corpid_collateral_calderon402x508.jpg" crc="3781051666" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_facebook_313103.png" crc="3985167995" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="if_linkedin_313117.png" crc="514651637" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="if_twitter_313075.png" crc="140211627" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="abstract-architecture-art-1451474.png" crc="4112073665" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="corpid_collateral_calderon.jpg" crc="52009921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="abstract-architecture-art-1451474960x1280.png" crc="4033525171" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact"/>
+    <file name="lrm_export_28591613677211_20181125_003459382.jpg" crc="4108258314" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="lrm_export_28591613677211_20181125_003459382179x238.jpg" crc="39019116" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="logo example page.png" crc="152934430" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stationary page logo example.png" crc="4201664828" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="corpid_collateral_calderon392x495.jpg" crc="3827255234" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pg2 brocheure.png" crc="4268635334" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="corpid_collateral_calderon241x305.jpg" crc="345571387" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="389786012" seo="true" mt="1544557873153" redirect="true"/>
+  <file name="about.html" crc="358554399" seo="true" mt="1544560935536" redirect="true"/>
+  <file name="portfolio.html" crc="237900669" seo="true" mt="1544561113706" redirect="true"/>
+  <file name="contact.html" crc="3832624939" seo="true" mt="1544561268985" redirect="true"/>
+</manifest>
