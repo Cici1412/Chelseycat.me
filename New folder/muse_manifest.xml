@@ -1,0 +1,186 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Cicicat.me" resolutions="1x" timestamp="1553172321586">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3839253499" ref="index:portfolio:contact:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index:portfolio:contact:about"/>
+    <file name="index.css" crc="4173321596" ref="index"/>
+    <file name="nomq_index.css" crc="478796904" ref="index"/>
+    <file name="portfolio.css" crc="4086649284" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="482238308" ref="portfolio"/>
+    <file name="contact.css" crc="143243307" ref="contact"/>
+    <file name="nomq_contact.css" crc="509206586" ref="contact"/>
+    <file name="about.css" crc="417962236" ref="about"/>
+    <file name="nomq_about.css" crc="122572670" ref="about"/>
+  </folder>
+  <folder name="assets">
+    <file name="corpid_collateral_calderon.pdf" crc="12609449" seo="true" mt="1540263082000"/>
+    <file name="graphic-standard-manual-2018.pdf" crc="4133214713" seo="true" mt="1537972448000"/>
+    <file name="afr_3panfold_calderon.pdf" crc="161286731" seo="true" mt="1537972411000"/>
+    <file name="artrepro_billboard_calderon.pdf" crc="299777590" seo="true" mt="1537972374000"/>
+    <file name="resume-chelsey.pdf" crc="3885021384" seo="true" mt="1544558853000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:portfolio:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:about:portfolio:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:portfolio:contact"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:portfolio:contact"/>
+    <file name="require.js" crc="7928878" ref="index:about:portfolio:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="contact"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u1446.php" crc="3936421482" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="logo design.png" crc="116774770" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="psa_billboard_amberalert.png" crc="4153135345" seo="true" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="corpid_collateral_calderon.png" crc="52009921" seo="true" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chelsey-hw4-4.jpg" crc="212007965" seo="true" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="if_facebook_313103.png" crc="3985167995" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="if_linkedin_313117.png" crc="514651637" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="if_twitter_313075.png" crc="140211627" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="91807f89d8fd1b9f91e4d22cf1f3f594.png" crc="4078399514" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact"/>
+    <file name="20190306_155022.jpg" crc="3861812241" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="20190306_155022205x220.jpg" crc="29304993" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="logo example page.png" crc="152934430" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="stationary page logo example.png" crc="4201664828" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="apple1.jpg" crc="182019124" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bf-bluefire.png" crc="158755225" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="car.jpg" crc="4206528727" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chelsey-hw4-1.jpg" crc="388008474" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chelsey-w1-1.jpg" crc="4213838944" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chelsey-w3-1.jpg" crc="172127777" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="bf-atlantis.jpg" crc="3994632551" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="morikami_museum_us-1.jpg" crc="42391701" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="roadside-billboard.jpg" crc="9816220" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chelsey-hw8-card.jpg" crc="4033902066" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chelsey-hw8-logo.png" crc="3912505838" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chelsey-wk2-1.jpg" crc="91438214" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chelsey-wk2-2.jpg" crc="4005039607" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chelsey-wk8-1.jpg" crc="4000414732" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chelsey-wk4-2.jpg" crc="285364066" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4234501545" seo="true" mt="1553171975384" redirect="true"/>
+  <file name="about.html" crc="142857878" seo="true" mt="1553171975384" redirect="true"/>
+  <file name="portfolio.html" crc="212558161" seo="true" mt="1553171975384" redirect="true"/>
+  <file name="contact.html" crc="404398468" seo="true" mt="1553172051953" redirect="true"/>
+</manifest>
